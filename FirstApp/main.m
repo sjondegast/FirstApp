@@ -12,13 +12,19 @@ int main(int argc, const char * argv[])
 {
 
     @autoreleasepool {
-        int value1, value2, sum, i, sum2;
+        int value1, value2, sum, i, sum2, sum3;
+        int answer, result;
+        
         
         i = 1;
         value1 = 50;
         value2 = 25;
         sum = value1 + value2;
         sum2 = 25 + 37 - 19;
+        sum3 = 87 - 15;
+        answer = 100;
+        result = answer - 10;
+        
         
         // insert code here...
         NSLog(@"Programming in Objective-C is even more fun!");
@@ -30,6 +36,8 @@ int main(int argc, const char * argv[])
         NSLog(@"...%i \n", i);
         NSLog(@"...%i \n", i + 2);
         NSLog(@"The answer is %i \n", sum2);
+        NSLog(@"if you subtract 15 from 87 you get %i", sum3);
+        NSLog(@"The answer is %i", result + 5);
         
     }
     return 0;
