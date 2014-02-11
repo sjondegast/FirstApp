@@ -28,7 +28,7 @@
 /* Begin PBXFileReference section */
 		44ECAC7318AA35B900AB0874 /* FirstApp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FirstApp; sourceTree = BUILT_PRODUCTS_DIR; };
 		44ECAC7618AA35B900AB0874 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		44ECAC7918AA35B900AB0874 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		44ECAC7918AA35B900AB0874 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; usesTabs = 0; };
 		44ECAC7C18AA35B900AB0874 /* FirstApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FirstApp-Prefix.pch"; sourceTree = "<group>"; };
 		44ECAC7D18AA35B900AB0874 /* FirstApp.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = FirstApp.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
